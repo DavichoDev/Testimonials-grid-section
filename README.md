@@ -2,6 +2,8 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
+Final result: https://chipper-unicorn-d67df9.netlify.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
